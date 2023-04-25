@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="JustinStr:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JustinStr_jar</output-path>
+    <root id="root">
+      <element id="archive" name="JustinStr.jar">
+        <element id="module-output" name="JustinStr-New" />
+      </element>
+      <element id="library" level="project" name="libs" />
+    </root>
+  </artifact>
+</component>
