@@ -18,6 +18,10 @@ You can run the JustinStr.jar through the following steps：
    - "inputPath" indicates the input class file, note that the jar package under the windows system needs to be decompressed first.
    - "outputPath" indicates the output path of the result.
 
+   ```
+   java -jar JustinStr.jar --jre /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre --output /Users/XXX/JustinStrPlugin_jar/output --input /Users/XXX/commons-codec-1.15.jar
+   ```
+
 For more information, you can run `java -jar JustinStr.jar -h` or `java -jar JustinStr.jar --help`:
 
 ```
